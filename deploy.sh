@@ -1,3 +1,3 @@
 deploy the code
 `
-deploy the latest code 
+deploy latest code 
